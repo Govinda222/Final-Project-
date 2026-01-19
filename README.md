@@ -84,4 +84,5 @@ The analysis is based on `Sales_Data.csv`, which contains the following key feat
 
 I specialize in teaching Python for Data Science and building automated analysis pipelines. I enjoy breaking down complex datasets to find the "story" behind the numbers.
 
-[LinkedIn Profile] | [Portfolio Website]
+www.linkedin.com/in/govinda-upadhyay-350161286 
+
